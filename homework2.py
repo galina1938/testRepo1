@@ -1,8 +1,8 @@
 name="Mariam"
-print(name)
+print("My name is",name)
 age=20
-print(age)
+print("I am" ,age,"years old")
 age=age+1
-print(age)
+print("Nex year I will be",age)
 is_student=True
-print(is_student)
+print("I am a student and it's",is_student)
